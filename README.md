@@ -2,11 +2,11 @@
 
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/BenjaCode/legion-del-mal/ci.yml&cacheSeconds=60)
-![Release](https://img.shields.io/github/v/release/BenjaCode/legion-del-mal&cacheSeconds=60)
-![Issues](https://img.shields.io/github/issues/BenjaCode/legion-del-mal&cacheSeconds=60)
-![Último commit](https://img.shields.io/github/last-commit/BenjaCode/legion-del-mal&cacheSeconds=60)
-![Licencia](https://img.shields.io/github/license/BenjaCode/legion-del-mal&cacheSeconds=60)
+![Workflow](https://img.shields.io/github/actions/workflow/status/BenjaCode/legion-del-mal/ci.yml?cacheSeconds=60)
+![Release](https://img.shields.io/github/v/release/BenjaCode/legion-del-mal?cacheSeconds=60)
+![Issues](https://img.shields.io/github/issues/BenjaCode/legion-del-mal?cacheSeconds=60)
+![Último commit](https://img.shields.io/github/last-commit/BenjaCode/legion-del-mal?cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/BenjaCode/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
